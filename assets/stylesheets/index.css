@@ -94,6 +94,8 @@ li {
 
 .project-header {
     font-size: 2rem;
+    letter-spacing: 0.25rem;
+    font-weight: bold;
 }
 
 .card-area {
@@ -112,7 +114,10 @@ li {
     padding: 5vh 1vw;
 }
 
-
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 .project-img {
     box-sizing: border-box;
     max-width: 100%;
