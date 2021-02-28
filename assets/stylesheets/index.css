@@ -156,6 +156,10 @@ li {
 	top: 1px;
 }
 
+.icon:hover {
+    transform: scale(1.25);
+}
+
 @media (max-width: 1028px) { 
     
     .header {
