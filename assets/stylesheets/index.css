@@ -176,15 +176,15 @@ li {
         font-size: 2rem;
     }
     
-    .contact-btn {
-        margin: auto;
+    .button {
+        display:block;  
         text-align: center;
     }
 
     .icon {
         max-height: 35px;
         width: 10vw;
-        margin: 0 0.25rem;
+        margin: 0 0.5rem;
     }
     
     .projects {
